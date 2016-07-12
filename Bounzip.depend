@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1344054182 source:e:\code\bounzip\main.c
+	"global.h"
+
+1343017617 e:\code\bounzip\global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<setjmp.h>
+	<sys/stat.h>
+	<direct.h>
+	<ctype.h>
+	<stdint.h>
+
+1344053197 source:e:\code\bounzip\idx_op.c
+	"global.h"
+
+1343048498 source:e:\code\bounzip\nam_op.c
+	"global.h"
+
+1344054169 source:e:\code\bounzip\dat_op.c
+	"global.h"
+	<openssl/des.h>
+	"zlib.h"
+
+1245905958 source:e:\code\bounzip\des.c
+	<memory.h>
+	"yxyDES2.h"
+
+1245905958 e:\code\bounzip\yxydes2.h
+	<string.h>
+
+1306947244 e:\code\bounzip\openssl\des.h
+	<openssl/e_os2.h>
+	<openssl/des_old.h>
+
+1324314154 e:\code\bounzip\openssl\e_os2.h
+	<openssl/opensslconf.h>
+	<sys/socket.h>
+
+1336663106 e:\code\bounzip\openssl\opensslconf.h
+
+1211284378 e:\code\bounzip\openssl\des_old.h
+	<openssl/e_os2.h>
+	<openssl/symhacks.h>
+	<openssl/ui_compat.h>
+
+1325773808 e:\code\bounzip\openssl\symhacks.h
+	<openssl/e_os2.h>
+
+1017150856 e:\code\bounzip\openssl\ui_compat.h
+	<openssl/opensslconf.h>
+	<openssl/ui.h>
+
+1318286030 e:\code\bounzip\openssl\ui.h
+	<openssl/crypto.h>
+	<openssl/safestack.h>
+	<openssl/ossl_typ.h>
+
+1306947244 e:\code\bounzip\openssl\crypto.h
+	<stdlib.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/stack.h>
+	<openssl/safestack.h>
+	<openssl/opensslv.h>
+	<openssl/ossl_typ.h>
+	<openssl/ebcdic.h>
+	<openssl/symhacks.h>
+
+1223971852 e:\code\bounzip\openssl\stack.h
+
+1321398134 e:\code\bounzip\openssl\safestack.h
+	<openssl/stack.h>
+
+1336662998 e:\code\bounzip\openssl\opensslv.h
+
+1318202026 e:\code\bounzip\openssl\ossl_typ.h
+	<openssl/e_os2.h>
+
+949371674 e:\code\bounzip\openssl\ebcdic.h
+	<sys/types.h>
+
+1342878254 e:\cygwin\usr\local\ssl\include\openssl\des.h
+	<openssl/e_os2.h>
+	<openssl/des_old.h>
+
+1342878249 e:\cygwin\usr\local\ssl\include\openssl\e_os2.h
+	<openssl/opensslconf.h>
+	<sys/socket.h>
+
+1342878250 e:\cygwin\usr\local\ssl\include\openssl\opensslconf.h
+
+1342878254 e:\cygwin\usr\local\ssl\include\openssl\des_old.h
+	<openssl/e_os2.h>
+	<openssl/symhacks.h>
+	<openssl/ui_compat.h>
+
+1342878250 e:\cygwin\usr\local\ssl\include\openssl\symhacks.h
+	<openssl/e_os2.h>
+
+1342878274 e:\cygwin\usr\local\ssl\include\openssl\ui_compat.h
+	<openssl/opensslconf.h>
+	<openssl/ui.h>
+
+1342878274 e:\cygwin\usr\local\ssl\include\openssl\ui.h
+	<openssl/crypto.h>
+	<openssl/safestack.h>
+	<openssl/ossl_typ.h>
+
+1342878250 e:\cygwin\usr\local\ssl\include\openssl\crypto.h
+	<stdlib.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/stack.h>
+	<openssl/safestack.h>
+	<openssl/opensslv.h>
+	<openssl/ossl_typ.h>
+	<openssl/ebcdic.h>
+	<openssl/symhacks.h>
+
+1342878265 e:\cygwin\usr\local\ssl\include\openssl\stack.h
+
+1342878265 e:\cygwin\usr\local\ssl\include\openssl\safestack.h
+	<openssl/stack.h>
+
+1342878250 e:\cygwin\usr\local\ssl\include\openssl\opensslv.h
+
+1342878250 e:\cygwin\usr\local\ssl\include\openssl\ossl_typ.h
+	<openssl/e_os2.h>
+
+1342878250 e:\cygwin\usr\local\ssl\include\openssl\ebcdic.h
+	<sys/types.h>
+
+1336018356 e:\code\bounzip\zlib.h
+	"zconf.h"
+
+1342965226 e:\code\bounzip\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
